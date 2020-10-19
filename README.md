@@ -31,9 +31,14 @@ General
 **0. Git Basics**
 --------------
 * Finished the course <a href="https://www.udacity.com/course/version-control-with-git--ud123">Version Control with Git</a>
-![screenshot of sample]
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/0_git_basics/udacity_course.png)
 * Completed the following levels at <a href="https://learngitbranching.js.org/">learngitbranching.js.org:</a>
-** Main: Introduction Sequence
-![screenshot of sample]
-Remote: Push & Pull -- Git Remotes
-![screenshot of sample]
+  * Main: Introduction Sequence
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/0_git_basics/learngit1.png)
+
+  * Remote: Push & Pull -- Git Remotes
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/0_git_basics/learngit2.png)
+
+### Impressions:
+I liked the materials. I think they are useful and necessary. I also realized that I need to be more careful, because I accidentally completed all the levels of learngitbranching.js.org !!! =))) It was difficult, but I was brave to finish it! : -D
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/0_git_basics/cartoon_hero.png)
