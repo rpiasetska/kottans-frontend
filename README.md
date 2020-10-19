@@ -43,5 +43,7 @@ II. Remote: Push & Pull -- Git Remotes
 ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/0_git_basics/learngit2.png)
 
 ### Impressions:
-I liked the materials. I think they are useful and necessary. I also realized that I need to be more careful, because I accidentally completed all the levels of learngitbranching.js.org !!! =))) It was difficult, but I was brave to finish it! :-D
+I liked the materials. I think they are useful and necessary. 
+I also realized that I need to be more careful, because I accidentally completed all the levels of learngitbranching.js.org !!! =))) 
+It was difficult, but I was brave to finish it! :-D
 ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/0_git_basics/cartoon_hero.png)
