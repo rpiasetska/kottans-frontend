@@ -37,6 +37,7 @@ General
   1) Main: Introduction Sequence
   
 ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/0_git_basics/learngit1.png)
+
   2) Remote: Push & Pull -- Git Remotes
   
 ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/0_git_basics/learngit2.png)
