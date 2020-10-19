@@ -33,6 +33,7 @@ General
 * Finished the course <a href="https://www.udacity.com/course/version-control-with-git--ud123">Version Control with Git</a>
 ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/0_git_basics/udacity_course.png)
 * Completed the following levels at <a href="https://learngitbranching.js.org/">learngitbranching.js.org:</a>
+
   * Main: Introduction Sequence
   
 ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/0_git_basics/learngit1.png)
