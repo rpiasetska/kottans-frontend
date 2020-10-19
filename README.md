@@ -45,5 +45,5 @@ II. Remote: Push & Pull -- Git Remotes
 ### Impressions:
 I liked the materials. I think they are useful and necessary.<br> 
 I also realized that I need to be more careful, because I accidentally completed all the levels of learngitbranching.js.org !!! =))) <br> 
-It was difficult, but I was brave to finish it! :-D
+It was difficult, but I was brave to finish it! :-D <br> 
 ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/0_git_basics/cartoon_hero.png)
