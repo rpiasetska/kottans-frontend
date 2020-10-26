@@ -53,7 +53,6 @@ It was difficult but I was brave to finish it! :-D <br>
 **0. Linux, Command Line, HTTP Tools**
 --------------
 * Finished the course [Linux Survival (4 modules)](https://linuxsurvival.com/)
->
 <details>
   <summary>screenshots</summary>
   ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/2_vcs_github_collaboration/Linux_Quiz1.png)
@@ -62,6 +61,5 @@ It was difficult but I was brave to finish it! :-D <br>
   ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/2_vcs_github_collaboration/Linux_Quiz4.png)
 </details>
 
->
 ### Impressions:
 I had dealt with Linux earlier, so many commands were familiar to me. This was a good chance to refresh my memory and also gain new knowledge. The training was in a humorous manner. Excellent! Humor always helps to better remember material and keep attention
