@@ -66,4 +66,5 @@ It was difficult but I was brave to finish it! :-D <br>
 </details>
 
 ### Impressions:
-I had dealt with Linux earlier, so many commands were familiar to me. This was a good chance to refresh my memory and also gain new knowledge. The training was in a humorous manner. Excellent! Humor always helps to better remember material and keep attention
+I had dealt with Linux earlier, so many commands were familiar to me. This was a good chance to refresh my memory and also gain new knowledge. 
+The training was in a humorous manner. Excellent! Humor always helps to better remember material and keep attention
