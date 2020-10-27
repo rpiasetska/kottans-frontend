@@ -28,7 +28,7 @@
 General
 ===============
 
-**1. Git Basics**
+**0. Git Basics**
 --------------
 * Finished the course <a href="https://www.udacity.com/course/version-control-with-git--ud123">Version Control with Git</a>
 ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/git_basics/udacity_course.png)
@@ -50,7 +50,7 @@ I also realized that I need to be more careful because I accidentally completed 
 It was difficult but I was brave to finish it! :-D <br> 
 ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/git_basics/cartoon_hero.png)
 
-**0. Linux, Command Line, HTTP Tools**
+**1. Linux, Command Line, HTTP Tools**
 --------------
 * Finished the course [Linux Survival (4 modules)](https://linuxsurvival.com/)
 <details>
