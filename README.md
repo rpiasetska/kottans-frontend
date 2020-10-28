@@ -80,7 +80,8 @@ URL (Uniform Resource Locator)
   HTTPS (Secured). The default port is 443
   
   ### HTTP main verbs:
-_GET:_ fetch an existing resource
+*GET:* fetch an existing resource
+
 _POST:_ create a new resource
 _PUT:_ update an existing resource
 _DELETE:_ delete an existing resource
