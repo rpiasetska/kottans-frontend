@@ -77,9 +77,10 @@ URL (Uniform Resource Locator)
   ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/2_vcs_github_collaboration/http1-url-structure.png)
   
   HTTP. The default port is 80 
-  HTTPS (Secured). The default port is 443
+  HTTPS (HTTP Secured). The default port is 443
   
-  ### HTTP main verbs:
+  ### HTTP verbs:
+  
 **GET:** fetch an existing resource
 
 **POST:** create a new resource
@@ -87,5 +88,25 @@ URL (Uniform Resource Locator)
 **PUT:** update an existing resource
 
 **DELETE:** delete an existing resource
-  
+
+**HEAD:** this is similar to GET, but without the message body
+
+**TRACE:** used to retrieve the hops that a request takes to round trip from the server
+
+**OPTIONS:** used to retrieve the server capabilities
+
+### Status Codes:
+
+1xx: Informational Messages
+
+2xx: Successful
+
+3xx: Redirection
+
+4xx: Client Error
+
+5xx: Server Error
+
+### Request and Response Message Formats:
+
   ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/2_vcs_github_collaboration/http1-req-res-details.png)
