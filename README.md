@@ -80,10 +80,12 @@ URL (Uniform Resource Locator)
   HTTPS (Secured). The default port is 443
   
   ### HTTP main verbs:
-*GET:* fetch an existing resource
+* GET: * fetch an existing resource
 
 _POST:_ create a new resource
+
 _PUT:_ update an existing resource
+
 _DELETE:_ delete an existing resource
   
   ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/2_vcs_github_collaboration/http1-req-res-details.png)
