@@ -70,7 +70,8 @@ Finished the course [Linux Survival (4 modules)](https://linuxsurvival.com/)
 I had dealt with Linux earlier, so many commands were familiar to me. This was a good chance to refresh my memory and also gain new knowledge. 
 The training was in a humorous manner. Excellent! Humor always helps to better remember material and keep attention
 
-## 1.2. HTTP (Hypertext Transfer Protocol)
+
+## Linux CLI, and HTTP
 
 URL (Uniform Resource Locator)
 
@@ -110,3 +111,7 @@ URL (Uniform Resource Locator)
 ### Request and Response Message Formats:
 
   ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/2_vcs_github_collaboration/http1-req-res-details.png)
+  
+### Tools to View HTTP Traffic
+* **Chrome/Webkit** inspector is a favorite amongst web developers
+* Web debugging proxies: **Fiddler** on Windows and **Charles Proxy** for OSX
