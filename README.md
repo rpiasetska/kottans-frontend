@@ -115,3 +115,23 @@ URL (Uniform Resource Locator)
 ### Tools to View HTTP Traffic
 * **Chrome/Webkit** inspector is a favorite amongst web developers
 * Web debugging proxies: **Fiddler** on Windows and **Charles Proxy** for OSX
+
+### Authentication
+HTTP does support a rudimentary form of authentication called **Basic Authentication**, as well as the more secure **Digest Authentication**
+
+### HTTPS
+HTTP uses port 80 TCP
+HTTPS uses port 443 TCP
+
+Для того чтобы ваше веб-приложение работало по HTTPS, на вашей сервере должен иметься действительный цифровой сертификат. ЦС - небольшой файл, зашифрованное содержимое которого уникальным образом идентифицирует пользователя или сайт, показывая, что вы можете доверять определённой информации, и обеспечивая безопасную конфиденциальную связь в Интернете. Он связывает имя объекта, принимающего участие в секретной транзакции (адрес электронной почты или сайта), с открытым ключом. В шифровании с открытыми ключами существует проблема пересылки таких ключей через Интернет. В основе цифровых сертификатов лежит идея цифровой подписи.
+
+При выполнении клиентом запроса по HTTPS он вначале пытается получить сертификат от сервера. В случае успеха клиент сверяет его с центрами сертификации, имеющимися в его списке. Если издатель сертификата не совпадает с каким-либо из них, то клиент может показать пользователю диалог с предупреждением насчет сертификата веб-сайта.
+
+Как только подлинность сертификата установлена, SSL-рукопожатие завершено и начинается безопасная передача данных.
+
+### HTTP Caching
+**Private:**
+within a browser, caches usernames, passwords, URLs, browsing history and web content. They are generally small and specific to a user.
+
+**Public:**
+deployed as caching proxies between the server and client. These are much larger because they serve multiple users. A common practice is to keep multiple caching proxies between the client and the origin-server. This helps to serve frequently accessed content, while still allowing a trip to the server for infrequently needed content.
