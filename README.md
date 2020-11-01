@@ -135,3 +135,8 @@ within a browser, caches usernames, passwords, URLs, browsing history and web co
 
 **Public:**
 deployed as caching proxies between the server and client. These are much larger because they serve multiple users. A common practice is to keep multiple caching proxies between the client and the origin-server. This helps to serve frequently accessed content, while still allowing a trip to the server for infrequently needed content.
+
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/2_vcs_github_collaboration/http2-cache-topo.png)
+
+#### Cache Control Headers
+Cash-Control, Expires
