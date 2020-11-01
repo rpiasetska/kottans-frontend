@@ -8,7 +8,7 @@
 
 ### General
 - [x] 0. Git Basics
-- [ ] 1. Linux CLI and Networking
+- [x] 1. Linux CLI and Networking
 - [ ] 2. VCS (hello gitty), GitHub and Collaboration
 ### Front-End Basics
 - [ ] 3. Intro to HTML & CSS
@@ -138,5 +138,10 @@ deployed as caching proxies between the server and client. These are much larger
 
 ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_linux_cli/http2-cache-topo.png)
 
-#### Cache Control Headers
+#### Cache Control Headers:
 Cash-Control, Expires
+
+### Impressions:
+Some of the information was new for me or more detailed then I had. It was useful for me to learn about the peculiarities of the difference between HTTP and HTTPS, headers and caching. To be honest the material in the provided articles was difficult to read, so I often used Google to clarify some of the points. But the result pleases me - I have updated my knowledge. Thanks to everyone who read this and were happy for me 
+
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_linux_cli/smile.png)
