@@ -143,3 +143,13 @@ Cash-Control, Expires
 
 ### Impressions:
 Some of the information was new for me or more detailed then I had. It was useful for me to learn about the peculiarities of the difference between HTTP and HTTPS, headers and caching. To be honest the material in the provided articles was difficult to read, so I often used Google to clarify some of the points. But the result pleases me - I have updated my knowledge. Thanks to everyone who read this and were happy for me 
+
+## 2. Git Collaboration
+
+### GitHub & Collaboration
+
+### The following levels was completed at learngitbranching.js.org:
+
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_git_collaboration/Main_learngitbranching.png)
+
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_git_collaboration/Remote__learngitbranching.png)
