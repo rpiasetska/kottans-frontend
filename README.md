@@ -28,7 +28,7 @@
 General
 ===============
 
-## 0. Git Basics**
+## 0. Git Basics
 --------------
 * Finished the course <a href="https://www.udacity.com/course/version-control-with-git--ud123">Version Control with Git</a>
 ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/git_basics/udacity_course.png)
@@ -80,7 +80,7 @@ URL (Uniform Resource Locator)
   HTTP. The default port is 80 
   HTTPS (HTTP Secured). The default port is 443
   
-  #### HTTP verbs:
+#### HTTP verbs:
   
 **GET:** fetch an existing resource
 
