@@ -28,7 +28,7 @@
 General
 ===============
 
-**0. Git Basics**
+## 0. Git Basics**
 --------------
 * Finished the course <a href="https://www.udacity.com/course/version-control-with-git--ud123">Version Control with Git</a>
 ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/git_basics/udacity_course.png)
@@ -44,15 +44,15 @@ II. Remote: Push & Pull -- Git Remotes
 ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/git_basics/learngit2.png)
 </details>
 
-### Impressions:
+#### Impressions:
 I liked the materials. I think they are useful and necessary.<br> 
 I also realized that I need to be more careful because I accidentally completed all the levels of learngitbranching.js.org !!! =))) <br> 
 It was difficult but I was brave to finish it! :-D <br> 
 ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/git_basics/cartoon_hero.png)
 
-**1. Linux, Command Line, HTTP Tools**
+## Linux CLI, and HTTP
 --------------
-## 1.1. Linux, Command Line
+### 1.1. Linux, Command Line
 Finished the course [Linux Survival (4 modules)](https://linuxsurvival.com/)
 <details>
   <summary>screenshots</summary>
@@ -66,12 +66,12 @@ Finished the course [Linux Survival (4 modules)](https://linuxsurvival.com/)
   ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/2_vcs_github_collaboration/Linux_Quiz4.png)
 </details>
 
-### Impressions:
+#### Impressions:
 I had dealt with Linux earlier, so many commands were familiar to me. This was a good chance to refresh my memory and also gain new knowledge. 
 The training was in a humorous manner. Excellent! Humor always helps to better remember material and keep attention
 
 
-## 1.2. Linux CLI, and HTTP
+### 1.2. Linux CLI, and HTTP
 
 URL (Uniform Resource Locator)
 
@@ -80,7 +80,7 @@ URL (Uniform Resource Locator)
   HTTP. The default port is 80 
   HTTPS (HTTP Secured). The default port is 443
   
-  ### HTTP verbs:
+  #### HTTP verbs:
   
 **GET:** fetch an existing resource
 
@@ -96,7 +96,7 @@ URL (Uniform Resource Locator)
 
 **OPTIONS:** used to retrieve the server capabilities
 
-### Status Codes:
+#### Status Codes:
 
 1xx: Informational Messages
 
@@ -108,18 +108,18 @@ URL (Uniform Resource Locator)
 
 5xx: Server Error
 
-### Request and Response Message Formats:
+#### Request and Response Message Formats:
 
   ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_linux_cli/http1-req-res-details.png)
   
-### Tools to View HTTP Traffic
+#### Tools to View HTTP Traffic
 * **Chrome/Webkit** inspector is a favorite amongst web developers
 * Web debugging proxies: **Fiddler** on Windows and **Charles Proxy** for OSX
 
-### Authentication
+#### Authentication
 HTTP does support a rudimentary form of authentication called **Basic Authentication**, as well as the more secure **Digest Authentication**
 
-### HTTPS
+#### HTTPS
 HTTP uses port 80 TCP
 HTTPS uses port 443 TCP
 
@@ -129,7 +129,7 @@ HTTPS uses port 443 TCP
 
 Как только подлинность сертификата установлена, SSL-рукопожатие завершено и начинается безопасная передача данных.
 
-### HTTP Caching
+#### HTTP Caching
 **Private:**
 within a browser, caches usernames, passwords, URLs, browsing history and web content. They are generally small and specific to a user.
 
@@ -141,7 +141,7 @@ deployed as caching proxies between the server and client. These are much larger
 #### Cache Control Headers:
 Cash-Control, Expires
 
-### Impressions:
+#### Impressions:
 Some of the information was new for me or more detailed then I had. It was useful for me to learn about the peculiarities of the difference between HTTP and HTTPS, headers and caching. To be honest the material in the provided articles was difficult to read, so I often used Google to clarify some of the points. But the result pleases me - I have updated my knowledge. Thanks to everyone who read this and were happy for me 
 
 ## 2. Git Collaboration
