@@ -8,7 +8,7 @@
 
 ### General
 - [x] 0. Git Basics
-- [ ] 1. Linux CLI and Networking
+- [x] 1. Linux CLI and Networking
 - [ ] 2. VCS (hello gitty), GitHub and Collaboration
 ### Front-End Basics
 - [ ] 3. Intro to HTML & CSS
@@ -71,11 +71,11 @@ I had dealt with Linux earlier, so many commands were familiar to me. This was a
 The training was in a humorous manner. Excellent! Humor always helps to better remember material and keep attention
 
 
-## Linux CLI, and HTTP
+## 1.2. Linux CLI, and HTTP
 
 URL (Uniform Resource Locator)
 
-  ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/2_vcs_github_collaboration/http1-url-structure.png)
+  ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_linux_cli/http1-url-structure.png)
   
   HTTP. The default port is 80 
   HTTPS (HTTP Secured). The default port is 443
@@ -110,7 +110,7 @@ URL (Uniform Resource Locator)
 
 ### Request and Response Message Formats:
 
-  ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/2_vcs_github_collaboration/http1-req-res-details.png)
+  ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_linux_cli/http1-req-res-details.png)
   
 ### Tools to View HTTP Traffic
 * **Chrome/Webkit** inspector is a favorite amongst web developers
@@ -136,7 +136,12 @@ within a browser, caches usernames, passwords, URLs, browsing history and web co
 **Public:**
 deployed as caching proxies between the server and client. These are much larger because they serve multiple users. A common practice is to keep multiple caching proxies between the client and the origin-server. This helps to serve frequently accessed content, while still allowing a trip to the server for infrequently needed content.
 
-![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/2_vcs_github_collaboration/http2-cache-topo.png)
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_linux_cli/http2-cache-topo.png)
 
-#### Cache Control Headers
+#### Cache Control Headers:
 Cash-Control, Expires
+
+### Impressions:
+Some of the information was new for me or more detailed then I had. It was useful for me to learn about the peculiarities of the difference between HTTP and HTTPS, headers and caching. To be honest the material in the provided articles was difficult to read, so I often used Google to clarify some of the points. But the result pleases me - I have updated my knowledge. Thanks to everyone who read this and were happy for me 
+
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_linux_cli/smile.png)
