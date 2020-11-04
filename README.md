@@ -148,8 +148,13 @@ Some of the information was new for me or more detailed then I had. It was usefu
 
 ### GitHub & Collaboration
 
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_git_collaboration/GitHub_Collaboration.png)
+
 ### The following levels was completed at learngitbranching.js.org:
 
 ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_git_collaboration/Main_learngitbranching.png)
 
 ![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_git_collaboration/Remote__learngitbranching.png)
+
+#### Impressions:
+During studing training materials I deepened my knowledge in Git. Previously I have already had experience creating PR but these tasks helped me understand how everything happens "under the hood". Either I also understood the difference between fork and clone!
