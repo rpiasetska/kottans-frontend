@@ -160,3 +160,7 @@ Some of the information was new for me or more detailed then I had. It was usefu
 During studing training materials I deepened my knowledge in Git. <br>
 Previously I have already had experience creating PR but these tasks helped me understand how everything happens "under the hood". <br>
 Either I also understood the difference between fork and clone!
+
+## 3. Intro to HTML and CSS
+--------------
+### Udacity Course - Intro to HTML & CSS (Eng)
