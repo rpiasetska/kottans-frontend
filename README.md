@@ -165,14 +165,21 @@ Either I also understood the difference between fork and clone!
 --------------
 ### Udacity Course - Intro to HTML & CSS (Eng)
 
-![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/)
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_html_css_intro/udacity_intro_html_css.png)
 
 ### Udacity Course - Intro to HTML & CSS (Eng)
 
-![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/)
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_html_css_intro/codecademy_HTML_intro.png)
 
 ### Udacity Course - Intro to HTML & CSS (Eng)
 
-![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/)
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_html_css_intro/codecademy_CSS_intro.png)
 
 #### Impressions:
+Much of this course was familiar to me. But it was definitely useful to supplement my knowledge. 
+But the real discovery for me was the GRIDs! 
+I like it, I want to use them! It has something in common with flexes, but it's still a different world!
+
+I also liked the animation of the CSS!
+
+Dear Cottans! Thank you all for the compilation and introduction to the world of frontend full of discoveries!
