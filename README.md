@@ -164,3 +164,15 @@ Either I also understood the difference between fork and clone!
 ## 3. Intro to HTML and CSS
 --------------
 ### Udacity Course - Intro to HTML & CSS (Eng)
+
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/)
+
+### Udacity Course - Intro to HTML & CSS (Eng)
+
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/)
+
+### Udacity Course - Intro to HTML & CSS (Eng)
+
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/)
+
+#### Impressions:
