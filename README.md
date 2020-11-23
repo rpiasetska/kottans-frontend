@@ -12,7 +12,7 @@
 - [x] 2. VCS (hello gitty), GitHub and Collaboration
 ### Front-End Basics
 - [X] 3. Intro to HTML & CSS
-- [ ] 4. Responsive Web Design
+- [X] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScript Basics
 - [ ] 7. Document Object Model - practice
@@ -183,3 +183,19 @@ I like it, I want to use them! It has something in common with flexes, but it's 
 I also liked the animation of the CSS!
 
 Dear Cottans! Thank you all for the compilation and introduction to the world of frontend full of discoveries!
+
+
+## 4. Responsive Web Design
+
+### Udacity Course - Responsive Web Design Fundamentals (Eng)
+
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_responsive_web_design/1_udacity_course.png)
+
+
+### Flexbox Froggy
+
+![screenshot of sample](https://github.com/rpiasetska/kottans-frontend/blob/main/task_responsive_web_design/2_FlexFroggy.png)
+
+#### Impressions:
+Udacity course was useful and helped me organize my knowledge of responsive design. 
+And the Froggy Game is just fun! I really enjoyed playing!
